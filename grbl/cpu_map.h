@@ -341,7 +341,7 @@
   // a later date if flash and memory space allows.
 #define COOLANT_FLOOD_PORT            GPIOA
 #define RCC_COOLANT_FLOOD_PORT        RCC_APB2Periph_GPIOA
-#define COOLANT_FLOOD_BIT             8  
+#define COOLANT_FLOOD_BIT             9 
 #define COOLANT_MIST_PORT             GPIOB
 #define RCC_COOLANT_MIST_PORT         RCC_APB2Periph_GPIOB
 #define COOLANT_MIST_BIT              4 
